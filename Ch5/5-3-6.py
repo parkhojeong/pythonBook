@@ -14,7 +14,7 @@ def getDictionary(fileName):
     return countries
 
 def constructContinentNations(nations, continent):
-    ## Reduce the full 193 item dictionary to a dictionary consisting  
+    ## Reduce the full 193 item dictionary to a dictionary consisting
     ## solely of the countries in the specified continent.
 
     continentDict = {}  # an empty dictionary
@@ -29,6 +29,6 @@ def displaySortedResults(dictionaryName):
                      key=lambda k: k[1]["popl"], reverse=True)
     for k in continentList:
          print("  {0:s}: {1:,.2f}".format(k[0], k[1]["popl"]))
-         
+
 main()                        
 
