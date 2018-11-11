@@ -1,0 +1,195 @@
+Nation                                       Continent           Population          Area                
+
+Peru                                         South America       30.10               496226.00           
+Czech Republic                               Europe              10.60               30450.00            
+Panama                                       North America       3.60                29157.00            
+Namibia                                      Africa              2.20                318696.00           
+Qatar                                        Asia                2.10                4416.00             
+Slovenia                                     Europe              2.00                7827.00             
+France                                       Europe              66.30               211209.00           
+Fiji                                         Australia/Oceania   0.90                7056.00             
+Azerbaijan                                   Asia                9.70                33436.00            
+Sweden                                       Europe              9.70                173732.00           
+Jordan                                       Asia                7.90                45495.00            
+Paraguay                                     South America       6.70                157048.00           
+Algeria                                      Africa              38.30               919595.00           
+United Republic of Tanzania                  Africa              50.00               364898.00           
+Sudan                                        Africa              35.50               967495.00           
+Argentina                                    South America       44.00               1068302.00          
+Mauritania                                   Africa              3.50                397954.00           
+Vietnam                                      Asia                93.40               128527.00           
+Kuwait                                       Asia                2.70                6880.00             
+Papua New Guinea                             Australia/Oceania   6.60                178703.00           
+Nicaragua                                    North America       6.10                50193.00            
+Comoros                                      Africa              0.77                863.00              
+Jamaica                                      North America       2.90                4444.00             
+Palau                                        Australia/Oceania   0.02                177.00              
+Norway                                       Europe              5.10                148746.00           
+Australia                                    Australia/Oceania   22.50               2967909.00          
+Brazil                                       South America       202.70              3287597.00          
+Cambodia                                     Asia                15.50               69898.00            
+Senegal                                      Africa              13.60               76000.00            
+Honduras                                     North America       8.60                43278.00            
+Morocco                                      Africa              33.00               172414.00           
+Maldives                                     Asia                0.39                115.00              
+Togo                                         Africa              7.40                21925.00            
+Bolivia                                      South America       10.60               424163.00           
+Syrian Arab Republic                         Asia                18.00               71479.00            
+Eritrea                                      Africa              6.30                45405.00            
+Swaziland                                    Africa              1.40                6704.00             
+Djibouti                                     Africa              0.81                8958.00             
+Russian Federation                           Europe              142.50              6592800.00          
+South Africa                                 Africa              48.40               471443.00           
+Spain                                        Europe              47.70               195364.00           
+Saint Kitts and Nevis                        North America       0.05                101.00              
+Romania                                      Europe              21.70               92043.00            
+Chile                                        South America       17.40               292183.00           
+Albania                                      Europe              3.00                11100.00            
+Croatia                                      Europe              4.50                21831.00            
+Republic of the Congo                        Africa              4.70                132047.00           
+Belize                                       North America       0.34                8867.00             
+Micronesia                                   Australia/Oceania   0.11                271.00              
+Somalia                                      Africa              10.40               246201.00           
+Finland                                      Europe              5.30                130596.00           
+Kiribati                                     Australia/Oceania   0.10                280.00              
+Dominican Republic                           North America       10.40               18704.00            
+Cape Verde                                   Africa              0.54                1557.00             
+Madagascar                                   Africa              23.20               226597.00           
+Andorra                                      Europe              0.09                181.00              
+Saint Vincent and the Grenadines             North America       0.10                150.00              
+Benin                                        Africa              10.20               43484.00            
+Tajikistan                                   Asia                8.10                55251.00            
+Samoa                                        Australia/Oceania   0.20                1093.00             
+Greece                                       Europe              11.80               50944.00            
+Gabon                                        Africa              1.70                103347.00           
+The former Yugoslav Republic of Macedonia    Europe              2.10                205.00              
+Luxembourg                                   Europe              0.52                998.00              
+Lebanon                                      Asia                5.90                4035.00             
+Philippines                                  Asia                107.70              115831.00           
+Venezuela                                    South America       28.90               353841.00           
+Armenia                                      Asia                3.10                11506.00            
+Lao People's Democratic Republic             Asia                6.80                91429.00            
+Netherlands                                  Europe              16.59               16033.00            
+Liberia                                      Africa              4.10                43000.00            
+Suriname                                     South America       0.57                63251.00            
+Italy                                        Europe              61.70               116346.00           
+Mauritius                                    Africa              1.30                787.00              
+Tuvalu                                       Australia/Oceania   0.01                10.00               
+El Salvador                                  North America       6.20                8124.00             
+Vanuatu                                      Australia/Oceania   0.27                4706.00             
+Bhutan                                       Asia                0.73                14824.00            
+Ukraine                                      Europe              44.30               233090.00           
+Ecuador                                      South America       14.00               98985.00            
+Singapore                                    Asia                5.60                274.20              
+Timor-Leste                                  Asia                1.20                5743.00             
+Tonga                                        Australia/Oceania   0.11                289.00              
+Democratic Republic of the Congo             Africa              77.40               905355.00           
+Ireland                                      Europe              4.80                31520.00            
+Zambia                                       Africa              14.70               290587.00           
+Yemen                                        Asia                26.10               203849.00           
+China                                        Asia                1355.70             3696100.00          
+Malawi                                       Africa              17.40               45747.00            
+Egypt                                        Africa              86.90               387048.00           
+Mexico                                       North America       120.30              761606.00           
+Cameroon                                     Africa              23.10               183568.00           
+Turkmenistan                                 Asia                5.10                188456.00           
+Mozambique                                   Africa              24.70               309496.00           
+Barbados                                     North America       0.29                167.00              
+Niger                                        Africa              17.50               489678.00           
+Ghana                                        Africa              25.80               92098.00            
+Colombia                                     South America       46.20               440839.00           
+Myanmar                                      Asia                55.70               261227.00           
+Kyrgyzstan                                   Asia                5.60                77181.00            
+Thailand                                     Asia                67.70               198115.00           
+Monaco                                       Europe              0.03                0.76                
+Haiti                                        North America       10.20               10714.00            
+Nepal                                        Asia                31.00               56827.00            
+Malaysia                                     Asia                30.10               127355.00           
+Malta                                        Europe              0.41                121.00              
+Bulgaria                                     Europe              6.90                42823.00            
+Seychelles                                   Africa              0.09                174.00              
+Lesotho                                      Africa              1.90                12727.00            
+Poland                                       Europe              38.30               120726.00           
+Trinidad and Tobago                          North America       1.20                1978.00             
+Portugal                                     Europe              10.90               35645.00            
+Bosnia and Herzegovina                       Europe              3.90                19767.00            
+Rwanda                                       Africa              12.30               10169.00            
+Gambia                                       Africa              1.90                4007.00             
+Montenegro                                   Europe              0.65                5019.00             
+Equatorial Guinea                            Africa              0.72                10828.00            
+Saudi Arabia                                 Asia                27.30               829996.00           
+Grenada                                      North America       0.11                132.00              
+Serbia                                       Europe              7.20                34116.00            
+Bangladesh                                   Asia                166.30              55599.00            
+Libyan Arab Jamahiriya                       Africa              6.20                679359.00           
+Chad                                         Africa              11.40               495753.00           
+Central African Republic                     Africa              5.30                240534.00           
+Uganda                                       Africa              35.90               91136.00            
+Cyprus                                       Asia                1.20                3572.00             
+Tunisia                                      Africa              10.90               63170.00            
+Hungary                                      Europe              10.00               35919.00            
+Israel                                       Asia                7.80                8019.00             
+Burkina Faso                                 Africa              18.40               105792.00           
+Zimbabwe                                     Africa              13.80               150871.00           
+Liechtenstein                                Europe              0.04                62.00               
+Botswana                                     Africa              2.20                224606.00           
+Saint Lucia                                  North America       0.16                239.00              
+Bahamas                                      North America       0.32                5358.00             
+Oman                                         Asia                3.20                119498.00           
+Denmark                                      Europe              5.60                16640.00            
+Cote D'Ivoire                                Africa              22.80               124502.00           
+Latvia                                       Europe              2.20                24938.00            
+Sao Tome and Principe                        Africa              0.19                372.00              
+Republic of Moldova                          Europe              3.60                13067.00            
+Antigua and Barbuda                          North America       0.09                108.00              
+Nigeria                                      Africa              177.20              356669.00           
+Japan                                        Asia                127.10              145883.00           
+Estonia                                      Europe              1.30                17413.00            
+Guinea                                       Africa              11.50               94926.00            
+Belarus                                      Europe              9.60                80155.00            
+United Kingdom                               Europe              66.70               94526.00            
+Solomon Islands                              Australia/Oceania   0.61                43.00               
+Angola                                       Africa              19.10               481354.00           
+Bahrain                                      Asia                1.30                253.00              
+Ethiopia                                     Africa              96.60               426371.00           
+Austria                                      Europe              8.20                32383.00            
+Switzerland                                  Europe              8.10                15940.00            
+Uruguay                                      South America       3.30                68037.00            
+Democratic People's Republic of Korea        Asia                24.90               46528.00            
+New Zealand                                  Australia/Oceania   4.40                103738.00           
+Lithuania                                    Europe              3.50                25173.00            
+Burundi                                      Africa              10.40               10745.00            
+San Marino                                   Europe              0.03                23.60               
+Guinea Bissau                                Africa              1.70                13948.00            
+United States                                North America       318.90              3794066.00          
+Pakistan                                     Asia                196.20              310403.00           
+Afghanistan                                  Asia                31.80               251772.00           
+United Arab Emirates                         Asia                5.60                32278.00            
+Brunei Darussalam                            Asia                0.42                2226.00             
+Germany                                      Europe              81.00               137847.00           
+Marshall Islands                             Australia/Oceania   0.07                69.00               
+Sierra Leone                                 Africa              5.70                27699.00            
+Canada                                       North America       34.80               3855000.00          
+Mongolia                                     Asia                3.00                603909.00           
+India                                        Asia                1236.30             1269210.00          
+Costa Rica                                   North America       4.80                19730.00            
+Turkey                                       Asia                81.60               302535.00           
+Mali                                         Africa              16.50               478839.00           
+Cuba                                         North America       11.00               42803.00            
+Indonesia                                    Asia                253.60              735355.00           
+Dominica                                     North America       0.07                290.00              
+Kazakhstan                                   Asia                18.00               1052085.00          
+South Sudan                                  Africa              11.60               239285.00           
+Georgia                                      Asia                4.90                26916.00            
+Belgium                                      Europe              10.40               11787.00            
+Guyana                                       South America       0.74                83000.00            
+Slovakia                                     Europe              5.40                18932.00            
+Iraq                                         Asia                32.60               169234.00           
+Uzbekistan                                   Asia                28.90               172742.00           
+Iceland                                      Europe              0.32                39770.00            
+Nauru                                        Australia/Oceania   0.01                8.00                
+Sri Lanka                                    Asia                22.90               25332.00            
+Iran                                         Asia                80.80               636372.00           
+Kenya                                        Africa              45.00               224080.00           
+Guatemala                                    North America       14.70               42042.00            
+Republic of Korea                            Asia                49.00               38622.00            
