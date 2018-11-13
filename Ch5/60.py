@@ -1,7 +1,6 @@
 import pickle
 def main():
     citiesDict = createDictFromBinaryFile("LargeCitiesDict.dat")
-    print(citiesDict)
     stateName = inputStr()
     printLargeStates(citiesDict,stateName)
 

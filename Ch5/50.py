@@ -1,5 +1,3 @@
-
-
 def max(topHitters):
     maxHits = 0
     for key in topHitters.keys():
