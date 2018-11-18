@@ -9,18 +9,6 @@ def fun(r):
         c = c*(1+r/100)
     return n
 
-r1 = 1
-r2 = 2
-r3 = 3
-r4 = 4
-r5 = 5
-
-resByRule1 = rule(r1)
-resByRule2 = rule(r2)
-resByRule3 = rule(r3)
-resByRule4 = rule(r4)
-resByRule5 = rule(r5)
-
 c1 = 1
 n1 = 0
 

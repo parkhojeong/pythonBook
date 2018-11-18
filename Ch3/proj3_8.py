@@ -6,7 +6,6 @@ for item in li:
         checkList1.append(item)
 checkList2 = checkList1[::-1]
 
-print(checkList1)
 if checkList1 == checkList2:
     print(li,"is a palindrome.")
 else:
