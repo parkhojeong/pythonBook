@@ -10,7 +10,7 @@ window = Tk()
 window.title("Button")
 btnCalculate = Button(window, text="Calculate",
                       fg="blue", command=changeColor)
-btnCalculate.grid(padx=100, pady=15)
+btnCalculate.grid(padx=200, pady=50)
 window.mainloop()
  
 
