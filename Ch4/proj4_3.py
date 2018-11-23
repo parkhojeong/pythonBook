@@ -1,7 +1,7 @@
 def main():
     N = (getInput())
     numDict = verbalizeNumber(N)
-
+    #num = "{0:,d}.format(number).split(',')
     verDict = {}
     for item in numDict.items():
         k = item[0]
