@@ -11,8 +11,7 @@ def displayBirds():
 window = Tk()
 window.title("State Birds")
 textForButton = "Display the Different State Birds"
-btnDisplay = Button(window, text=textForButton, command=displayBirds)
-btnDisplay.grid(row=0, column=0, columnspan=3, pady=5)
+Button(window, text=textForButton, command=displayBirds).grid(row=0, column=0, columnspan=3, pady=5)
 yscroll = Scrollbar(window, orient=VERTICAL)
 yscroll.grid(row=1, column=1, rowspan=10, pady=(0,5), sticky=NS)
 conOFlstBirds = StringVar()
