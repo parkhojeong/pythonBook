@@ -1,9 +1,7 @@
 file = open("Mileage.txt")
 mDict = [[line.split(',')[0],eval(line.split(',')[1].rstrip())] for line in file ]
 resDict ={}
-
-
-print(mDict)
+# print(mDict)
 for i in range(len(mDict)):
     item = mDict[i]
     key = item[0]

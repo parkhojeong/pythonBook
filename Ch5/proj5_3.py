@@ -3,7 +3,7 @@ teamDict = {line.split(',')[0]:{"win":eval(line.split(',')[1]) ,"lost":eval(line
             for line in file}
 
 teamDict = dict(sorted(teamDict.items(),key = lambda k: k[1]["win"],reverse=True))
-print(teamDict)
+# print(teamDict)
 
 for key in teamDict.keys():
     teamDict[key]["rate"]= teamDict[key]["win"]/(teamDict[key]["win"]+teamDict[key]["lost"])

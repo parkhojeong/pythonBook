@@ -13,24 +13,15 @@ def viewGeneral(dictOb):
 def viewRate(dictOb):
     ratedictOb = {key: dictOb[key][1]/dictOb[key][0]for key in dictOb.keys()}
     sorted(ratedictOb.items(),key= lambda k : k[1], reverse=True)
-
     for key in ratedictOb.keys():
         print("{0:30}{1:20.1%}".format(key, ratedictOb[key]))
 
 def viewAmt(di):
-    # diffdictOb = {key: {"diff":dictOb[key][1] - dictOb[key][0],"2010Amt":dictOb[key][1]} for key in dictOb.keys()}
-    # sorted(diffdictOb.items(), key=lambda k: k[1]["diff"])
     di = dict(sorted(di.items(),key=lambda k:k[1][1]))
     for key in di.keys():
         print("{0:30}{1:,d}".format(key,di[key][1]))
 
-
-
 dictOb = fileOpen("DegreesDict.dat")
-# print(dictOb)
-# for key in dictOb.keys():
-#     print(key,dictOb[key])
-
 selectMenu = '0'
 while selectMenu != '4':
     if selectMenu == '1':

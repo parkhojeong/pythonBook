@@ -1,5 +1,4 @@
 import math
-
 def mean(list):
     return sum(list)/len(list)
 
@@ -9,7 +8,6 @@ def standardDeviation(list):
     for num in list:
         dSum += (num-m)**2
     return math.sqrt(dSum/len(list))
-
 
 file = open("Scores.txt")
 list = [eval(line.rstrip()) for line in file]
