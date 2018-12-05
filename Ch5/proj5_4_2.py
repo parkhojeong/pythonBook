@@ -3,15 +3,20 @@ def fileRead(filename):
     return {line.split(',')[0]:{"state":line.split(',')[1],"group":line.split(',')[2].rstrip()}
             for line in file}
 
-
 senateDict = fileRead("Senate113.txt")
 newSenDict = fileRead("NewSen.txt")
 retiredSenDict = fileRead("Retiredsen.txt")
+
 for key in senateDict:
     if key in newSenDict.keys():
         del senateDict[key]
-
 senateDict.update(retiredSenDict)
+
+Rteam = [key for key in senateDict if senateDict[key]["group"]=='R']
+
+print(len(Rteam))
+
+
 rSum = dSum = iSum = 0
 for key in senateDict:
     if senateDict[key]["group"] == 'R':
