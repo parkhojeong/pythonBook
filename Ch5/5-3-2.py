@@ -1,6 +1,10 @@
 def main():
     ## Translate an English sentence into textese.
     texteseDict = createDictionary("Textese.txt")
+    print(texteseDict)
+    dd= dict()
+    dd["adeiu"] = "A"
+    print(dd["adeiu"] in texteseDict)
     print("Enter a simple sentence in lowercase letters without")
     sentence = input("any punctuation: ")
     print()

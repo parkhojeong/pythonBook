@@ -5,14 +5,12 @@ for i in range(len(inputList)):
     item = inputList[i] # 한줄 씩 item으로 저장 후 사용
     key = item[0]
     if resDict.get(key,-1) == -1:
-        resDict[key] = {"cnt":1,"sumGallon":item[1]}
+        resDict[key] = (1,item[1])
     else:
-        resDict[key]["cnt"]+=1
-        resDict[key]["sumGallon"] = resDict[key]["sumGallon"]+item[1]
+        resDict[key]= (resDict[key][0]+1,resDict[key][1]+item[1] )
 
-    resDict[key]["MPG"] = resDict[key]["cnt"] * 100 / resDict[key]["sumGallon"]
 
-print("{0:<15}{1:<15}".format("Model","MPG"))
-for item in sorted(resDict.items(),key = lambda k : k[1]["MPG"],reverse= True):
-    key = item[0]
-    print("{0:<15s}{1:<15.2f}".format(key,resDict[key]["MPG"]))
+print(resDict)
+for item in sorted(resDict.items(), key=lambda k: k[1][0]*100/k[1][1], reverse=True):
+    MPG= item[1][0]*100/item[1][1]
+    print("{0:<15s}{1:<15.2f}".format(item[0], MPG))
