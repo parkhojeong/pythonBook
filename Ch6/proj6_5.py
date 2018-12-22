@@ -1,20 +1,22 @@
+arr = list("abc")
 def main():
+    global arr
+    permutation(len(arr))
 
-    fun("abc")
-def fun(str):
+def permutation(size):
+    global arr
+    if(size == 0):
+        print_arr()
+        return
 
-    if(len(str)==2):
-        return (str, str[1]+str[0])
-    else:
-        res1 = ""
-        res2 = ""
-        res = []
-        for i in range(len(str)):
-            if(i< len(str)-1 ):
-                res1,res2 = fun(str[:i]+str[i+1:])
-            else:
-                res1,res2 = fun(str[:i])
-            res.append(str[i]+res1)
-            res.append(str[i]+res2)
-        print(res)
+    for i in range(size-1,-1,-1):
+        arr[i],arr[size-1] = arr[size-1],arr[i]
+        permutation(size-1)
+        arr[i], arr[size-1] = arr[size-1], arr[i]
+
+def print_arr():
+    for i in range(len(arr)):
+        print(arr[i],end="")
+    print()
+
 main()

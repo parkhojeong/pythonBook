@@ -11,7 +11,7 @@ class Fraction:
 
     def __str__(self):
         self.fun()
-        return str(self.M)
+        return str(self.M),str(self.M)
 
     def getM(self):
         return self.M
